@@ -1,6 +1,6 @@
 div{
     background-image:
-    linear-gradient(to right bottom, rgba(0, 81, 255, 0.199),rgba(255, 255, 255, 0.219)),
+    linear-gradient(to right bottom, rgba(0, 81, 255, 0.185),rgba(184, 23, 23, 0.555)),
     url(1232.WWDC_2019_Dark-1024w-1366h@2xipad.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -10,11 +10,13 @@ div{
 div h1{
     text-transform: uppercase;
     text-align: center;
-    font-family: cursive;   
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 100px;   
 }
 div li{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
-    text-align: center;
     font-size: larger;
 }
