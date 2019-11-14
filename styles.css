@@ -18,6 +18,9 @@ div h1{
     font-style: italic;
     font-size: 100px;   
 }
+div ul{
+    list-style: none;
+}
 div li{
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
