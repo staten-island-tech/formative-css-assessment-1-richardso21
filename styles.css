@@ -1,4 +1,6 @@
-
+body{
+    margin: 0;
+}
 div{
     background-image:
     linear-gradient(to right bottom, rgba(0, 81, 255, 0.485),rgba(184, 23, 23, 0.485)),
