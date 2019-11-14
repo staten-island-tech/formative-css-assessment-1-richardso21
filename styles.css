@@ -1,7 +1,8 @@
+
 div{
     background-image:
-    linear-gradient(to right bottom, rgba(0, 81, 255, 0.185),rgba(184, 23, 23, 0.555)),
-    url(1232.WWDC_2019_Dark-1024w-1366h@2xipad.png);
+    linear-gradient(to right bottom, rgba(0, 81, 255, 0.485),rgba(184, 23, 23, 0.485)),
+    url(EA797AlWwAA-nc2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -19,4 +20,10 @@ div li{
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
     font-size: larger;
+}
+div img{
+    display: block;
+    margin: auto;
+    height: 500px;
+    filter: contrast(5);
 }
